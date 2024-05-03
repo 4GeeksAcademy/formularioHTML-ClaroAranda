@@ -1,0 +1,11 @@
+div[class*="frmRow"]{
+    margin-top: 15px;
+}
+
+i[class*="fab"] {
+    font-size: 20px;
+}
+
+input[class*="form-check-input"] {
+    padding-left: 2px;
+}
